@@ -1,0 +1,6 @@
+This project is base of 3-tier architecture on k8s env with nginx,node.js,mongoDB.
+It can't be used as it is.
+
+If you wanna use this project, you have to build docker image yourself by using each dir's Dockerfile.
+
+
